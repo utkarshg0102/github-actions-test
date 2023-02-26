@@ -3,5 +3,5 @@ print("Hello World")
 def welcome():
   print("Welcome to the github actions tutes")
   
-print("print this as a github actions tute")
+print("print this as a github actions tutes")
 welcome()
